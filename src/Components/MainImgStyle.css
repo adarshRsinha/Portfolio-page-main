@@ -46,7 +46,7 @@
 }
 
 .main .content p::before{
-    content: "";
+    content: "I'm a Software Developer";
     animation: animate infinite 6s;
     font-size: 1.4rem;
     font-weight: 200;
